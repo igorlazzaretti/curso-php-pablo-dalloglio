@@ -81,4 +81,4 @@ function nomear($p)
    echo "olá, meu nome é " . $p;
 }
 
-call_user_func('nomear', 'Ginyyy');
+call_user_func('nomear', 'Ginyyy'); 
