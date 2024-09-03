@@ -1,0 +1,24 @@
+MVCigor é uma solução com estrutura de classes para usarmos com exemplos.
+
+Ela contém:
+
+/Lib
+    /framigor
+        /Control
+        /Core
+        /Database
+        /Log
+        /Session
+        /Traits
+        /Widgets
+
+
+/App        
+        /Config
+        /Control
+        /DataBase
+        /Images
+        /Model
+        /Resources
+        /Services
+        /Templates
